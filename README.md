@@ -21,6 +21,8 @@ Hi, I'm devOften!
 </p>	
 </h1>
 
+Hello i'm devOften a CyberSecurity student, Front & Backend developer, and FiveM developer
+
 ## ⚡ Stuff I Know
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
