@@ -21,7 +21,7 @@ Hi, I'm devOften!
 </p>	
 </h1>
 
-                     **Hello i'm devOften a CyberSecurity student, Front & Backend developer, and FiveM developer**
+                     **Hello i'm devOften a CyberSecurity professional, Front & Backend developer, and FiveM developer**
 
 ## ⚡ Stuff I Know
 
