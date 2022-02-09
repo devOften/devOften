@@ -17,11 +17,11 @@ Hi, I'm devOften!
 	
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Always+Learning+New+Things;FiveM+Developer;Cyber+Security+Professional"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Always+Learning+New+Things;FiveM+Developer;Cyber+Security+Specialist"></a>
 </p>	
 </h1>
 
-                     **Hello i'm devOften a CyberSecurity professional, Front & Backend developer, and FiveM developer**
+                     **Hello i'm devOften a CyberSecurity specialist, Front & Backend developer, and FiveM developer**
 
 ## ⚡ Stuff I Know
 
