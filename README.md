@@ -21,7 +21,7 @@ Hi, I'm devOften!
 </p>	
 </h1>
 
-                     Hello i'm Often a CyberSecurity specialist, Front & Backend developer, and FiveM developer
+                     Hello i'm Often a CyberSecurity specialist, Front & Backend developer, and Creative Director
 
 ## ⚡ Stuff I Know
 
